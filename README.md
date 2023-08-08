@@ -5,5 +5,3 @@
 <p>HTML</p>
 <p>CSS</p>
 
-# Autores
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Bruno silva</sub>] (https://Github.com/iBrunosilva250) |
